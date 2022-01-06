@@ -5,8 +5,8 @@ from requests import post
 
 #MASUKAN NOMOR DI KOLOM VARIABLE URL
 #MASUKAN NOMOR TANPA 62/0
-#CONTOH 8938373772
-url = "https://id.jagreward.com/member/verify-mobile/no target"
+#CONTOH 8938373772 hapus masukin-target-di-sini ganti no target
+url = "https://id.jagreward.com/member/verify-mobile/masukin-target-di-sini"
 
 
 
